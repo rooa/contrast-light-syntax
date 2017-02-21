@@ -1,7 +1,7 @@
 {
   "name": "contrast-light-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "High contrast Atom syntax theme.",
   "repository": "https://github.com/rooa/contrast-light-syntax",
   "keywords": [
