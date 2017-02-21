@@ -6,4 +6,4 @@ Code are based on [darkpython-syntax-theme](https://github.com/tryexceptpass/dar
 ## Screenshot
 Example code with this theme.
 
-![](https://github.com/rooa/contrast-light-syntax/blob/master/contrast_light.png)
+![contrast-light_python](https://github.com/rooa/contrast-light-syntax/blob/master/contrast_light.png?raw=true)
