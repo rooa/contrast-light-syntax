@@ -6,7 +6,7 @@ Code are based on [darkpython-syntax-theme](https://github.com/tryexceptpass/dar
 ## Install
 Search the theme from GUI, or type the following command:
 
-`apm install constrast-light-syntax`
+`apm install contrast-light-syntax`
 
 ## Screenshot
 Example code with this theme.
